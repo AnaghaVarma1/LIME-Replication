@@ -2,9 +2,10 @@
 
 **Author:** Anagha Varma
 
-**[Please find the full paper here (PDF)](./Research Paper/LIME Replication (v1).pdf)**
+[Please find the full paper here (PDF)](./Research%20Paper/LIME%20Replication%20(v1).pdf)
 
-**For any questions or comments, please connect with me on [LinkedIn](https://www.linkedin.com/in/anagha-varma/)**
+For any questions or comments, please connect with me on [LinkedIn](https://www.linkedin.com/in/anagha-varma/).
+
 ---
 
 ### Abstract
